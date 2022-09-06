@@ -14,4 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laitathei&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="laitathei" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=laitathei&show_icons=true&locale=en&theme=chartreuse-dark&hide=prs&count_private=true" alt="laitathei" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=laitathei&show_icons=true&locale=en&theme=chartreuse-dark&hide=prs&count_private=true" alt="laitathei" /></p>
