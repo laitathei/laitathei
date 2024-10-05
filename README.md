@@ -6,7 +6,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=laitathei&theme=onedark&no-bg=true&no-frame=true&title=MultiLanguage&title=Commits&title=Repositories)
 
-- 📝 I regularly write articles on [https://laitathei.github.io/](https://medium.com/@k66115704/)
+- 📝 I regularly write articles on [Medium](https://medium.com/@k66115704/)
 
 - 📫 How to reach me **k66115704@gmail.com**
 
