@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm laitathei</h1>
 <h3 align="center">A passionate robotics engineer from Hong Kong</h3>
-<h3 align="center">Currently studying ECE MEng at University of Waterloo</h3>
+<h3 align="center">ECE MEng at University of Waterloo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laitathei&label=Profile%20views&color=0e75b6&style=flat" alt="laitathei" /> </p>
 
